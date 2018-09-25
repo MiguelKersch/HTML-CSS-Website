@@ -1,0 +1,93 @@
+body{
+font-family: 'Roboto', sans-serif;
+
+
+}
+#border{
+margin-left: 150px;
+margin-right: 150px;
+}
+
+
+.navbar{
+background-color: #000080;
+overflow: hidden;
+  position: sticky;
+  top:0;
+  width: 100%;
+
+}
+.navbar a{
+float: left ;
+color:white;
+text-align:center ;
+padding: 2% 5%;
+text-decoration: blink;
+font-size: 20px;
+}
+.navbar a:hover {
+    background-color: #0000ff;
+    color: white;
+}
+ 
+h1{
+
+font-size: 36px;
+line-height: 36px;
+
+
+}
+
+
+.natitle{
+
+font-size: 24px;
+line-height: 32px;
+
+
+
+}
+ul{
+margin-bottom:40px;
+
+}
+ol{
+margin-bottom:40px;
+
+
+
+}
+
+
+
+ul li{
+font-size: 20px;
+line-height: 26px;
+padding-bottom:10px;
+}
+
+
+
+ol li{
+font-size: 20px;
+line-height: 26px;
+padding-bottom: 20px;
+}
+
+.title{
+font-size: 36px;
+line-height: 36px;
+
+}
+
+.tip{
+
+background-color: #def6ed;
+padding: 3px 3px;
+border: 4px;
+}
+footer{
+background-color: #000080;
+padding:  20px 20px;
+
+}
